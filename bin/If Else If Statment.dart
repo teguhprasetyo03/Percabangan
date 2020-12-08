@@ -4,6 +4,14 @@ void main(List<String> args) {
   var nilai = 60;
   print('Awal dari Program');
 
+  // if (ekspresi 1) {
+  //   statment1;
+  // } else if(ekspresi 2) {
+  //   statment2;
+  // } else{
+  //   statmentdefault;
+  // }
+
   if (nilai == 70) {
     print('Anda mendapatkan nilai 70');
   } else if (nilai == 80) {
